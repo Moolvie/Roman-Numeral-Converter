@@ -1,0 +1,14 @@
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.xml
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.xml
+c:\users\owner\documents\visual studio 2012\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb
+E:\projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+E:\projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+E:\projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.xml
+E:\projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb
